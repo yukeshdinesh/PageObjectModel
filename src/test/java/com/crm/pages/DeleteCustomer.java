@@ -6,7 +6,10 @@ public class DeleteCustomer extends TestBase{
 	
 	public DeleteCustomer() {
 		super();
+		
+		if(true)
 		System.out.println("Delete customer class added");
+		
 	}
 
 }
