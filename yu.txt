@@ -2,6 +2,8 @@ Yukesh Kumar is here
 
 changes needed in yukesh branch
 
+git checkout automatic
+
 no ff 
 
 git push using ssh
