@@ -1,5 +1,5 @@
 Yukesh Kumar stash example
-
+ automatic
 automatic
 
 merging without ff
