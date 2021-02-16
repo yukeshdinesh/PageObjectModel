@@ -7,3 +7,5 @@ merging without ff
 stash using branch
 
 stshing multiple files
+
+new line
