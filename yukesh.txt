@@ -1,5 +1,7 @@
 Yukesh Kumar stash example
 
+merging without ff
+
 stash using branch
 
 stshing multiple files
