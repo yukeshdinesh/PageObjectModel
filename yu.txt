@@ -2,7 +2,7 @@ Yukesh Kumar is here
 
 changes needed in yukesh branch
 
-git checkout automatic
+ automatic
 
 no ff 
 
