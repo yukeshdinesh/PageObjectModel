@@ -1,4 +1,5 @@
-conflict in main branch newly added - added in main branch after rebasing
+rebasing in feature branch - second time adding after rebasing
+conflict in main branch newly added
 Yukesh Kumar is here 
 
 git learning
