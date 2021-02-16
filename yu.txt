@@ -1,4 +1,4 @@
-conflict in main branch newly added
+conflict in main branch newly added - added in main branch after rebasing
 Yukesh Kumar is here 
 
 git learning
