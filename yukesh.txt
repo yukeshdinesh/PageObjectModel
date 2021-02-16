@@ -1,5 +1,7 @@
 Yukesh Kumar stash example
 
+automatic
+
 merging without ff
 
 stash using branch
