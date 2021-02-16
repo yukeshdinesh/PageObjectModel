@@ -1,7 +1,7 @@
 Yukesh Kumar stash example
  automatic
 automatic
-
+yukesh edit in yukesh.txt
 merging without ff
 
 stash using branch
