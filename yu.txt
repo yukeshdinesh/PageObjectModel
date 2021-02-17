@@ -1,3 +1,4 @@
+taggingof 1.1
 tagging example
 pull rebase example
 rebasing conflict in big trouble branch
