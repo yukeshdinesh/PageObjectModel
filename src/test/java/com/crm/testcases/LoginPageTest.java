@@ -40,6 +40,11 @@ public class LoginPageTest extends TestBase{
 		 NewCustomer= LoginPage.LoginTest(prop.getProperty("username"), prop.getProperty("password"));
 	}
 	
+	@Test(priority=4)
+	public void LoginTest2() {
+		 NewCustomer= LoginPage.LoginTest(prop.getProperty("username"), prop.getProperty("password"));
+	}
+	
 	@AfterMethod
 	public void teardown() {
 		driver.quit();
